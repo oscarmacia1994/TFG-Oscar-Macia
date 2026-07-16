@@ -35,3 +35,12 @@ desktop.ini
 .pytest_cache/
 .mypy_cache/
 .cache/
+
+# Conjuntos de datos
+data/raw/
+data/processed/
+
+# Archivos de datos generados
+*.parquet
+*.pkl
+*.pickle
